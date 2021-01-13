@@ -1,4 +1,4 @@
-print(ord("9"))
+
 string = input()
 cout =  -1
 new_string = ""
